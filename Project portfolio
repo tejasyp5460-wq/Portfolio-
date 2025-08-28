@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>Bhushan Ware - Portfolio</title>
+</head>
+<body bgcolor="#f9f9f9">
+
+    <!-- Main Heading -->
+    <center>
+        <h1 style="color:#2c3e50;">Bhushan Ware</h1>
+        <hr width="60%">
+    </center>
+
+    <!-- About Me Section -->
+    <section>
+        <h2>About Me</h2>
+        <p>
+            I am <b>Bhushan Ware</b>, a passionate web developer dedicated to designing digital experiences 
+            that are both visually stunning and intuitive. I strive to create designs that delight 
+            and engage users. I have a strong foundation in <b>HTML, C++, Java, Python, MySQL</b>, 
+            with additional skills in <b>event management</b> and <b>Google Workspace</b>.  
+            As a motivated fresher, I aim to contribute effectively to web development 
+            projects, collaborate with teams, and continually improve my skills through real-world challenges.
+        </p>
+    </section>
+    <hr>
+
+    <!-- Skills and Interests Section -->
+    <section>
+        <h2>Skills</h2>
+        <ul>
+            <li>C & C++</li>
+            <li>SQL</li>
+            <li>DSA</li>
+            <li>HTML & CSS</li>
+            <li>Java</li>
+            <li>Python</li>
+        </ul>
+
+        <h2>Interests</h2>
+        <ol>
+            <li>Web Development</li>
+            <li>Google Workspace</li>
+            <li>UI/UX Design</li>
+        </ol>
+    </section>
+    <hr>
+
+    <!-- Projects Section -->
+    <section>
+        <h2>Projects</h2>
+        <h3>Transportation Study and Analysis System</h3>
+        <p>
+            Developed a data-driven transportation analysis system to study and optimize urban mobility patterns.  
+            Collected and processed real-world transportation data (e.g., traffic flow, public transport usage, peak hours).  
+            Designed dashboards and reports to visualize travel trends and identify bottlenecks.  
+            Integrated Google Maps API for real-time traffic visualization.
+        </p>
+    </section>
+    <hr>
+
+    <!-- Contact Information -->
+    <section>
+        <h2>Contact</h2>
+        <p><b>Email:</b> <a href="mailto:bhushanware935@gmail.com">bhushanware935@gmail.com</a></p>
+        <p>
+            <b>Links:</b> 
+            <a href="https://www.linkedin.com/in/bhushan-ware?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app">LinkedIn</a> |
+            <a href="https://github.com/Bhushan2176">GitHub</a>
+        </p>
+    </section>
+
+</body>
+</html>
